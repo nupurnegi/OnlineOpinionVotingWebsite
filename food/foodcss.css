@@ -1,0 +1,17 @@
+body{
+    background:url('foodimg.jpg');
+	font-weight:bold;
+	background-repeat:no-repeat;
+	background-size: cover;
+    background-position:center;
+	}
+
+p:hover {
+  background-color: grey;
+  color:white;
+}
+.txt
+{
+color: white;
+font-size: 200%;
+}

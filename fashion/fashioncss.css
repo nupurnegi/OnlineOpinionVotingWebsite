@@ -1,0 +1,17 @@
+body{
+    background:url('fashion.jpg');
+	font-weight:bold;
+	background-repeat:no-repeat;
+	background-size: 100% 100%;
+    background-position:center;
+}
+p:hover {
+  background-color: grey;
+  color:white;
+}
+.txt
+{
+color: white;
+font-size: 200%;
+text-align:center;
+}
